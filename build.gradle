@@ -118,6 +118,8 @@ dependencies {
     shade('org.eclipse.platform:org.eclipse.equinox.registry:3.10.100') { force = true }
     shade('org.eclipse.platform:org.eclipse.osgi:3.16.200') { force = true }
     shade('org.eclipse.platform:org.eclipse.core.commands:3.9.800') { force = true }
+    // Because eclipse
+    shade('org.eclipse.platform:org.eclipse.equinox.preferences:3.8.200') { force = true }
 
     //Stuff used in the GradleStart classes
     compileOnly 'com.mojang:authlib:1.5.16'
