@@ -1,6 +1,8 @@
-ForgeGradle
+ForgeGradle 2.3 Assets fix
 ===========
 
-[![Join the chat at https://gitter.im/MinecraftForge/ForgeGradle](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MinecraftForge/ForgeGradle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+A fix for the asset bug when trying to compile a mod built using FG 2.3
 
-Minecraft mod development framework used by Forge and FML for the gradle build system
+Original FG_2.3 branch: [MinecraftForge/ForgeGradle (FG_2.3)](https://github.com/MinecraftForge/ForgeGradle/tree/FG_2.3)
+
+Up-to-date FG branch: [MinecraftForge/ForgeGradle (latest)](https://github.com/MinecraftForge/ForgeGradle/)
